@@ -1,0 +1,18 @@
+* {
+  font-family: "해남체";
+}
+#watch {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 500px;
+}
+.time {
+  font-size: 80px;
+  font-weight: bolder;
+  margin: 20px;
+}
+.date {
+  font-size: 20px;
+}
